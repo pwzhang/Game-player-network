@@ -344,6 +344,3 @@ def test():
     print(get_secondary_connections(net, "Mercedes"))
     print(count_common_connections(net, "Mercedes", "John"))
     print(find_path_to_friend(net, "John", "Ollie"))
-
-
-test()
